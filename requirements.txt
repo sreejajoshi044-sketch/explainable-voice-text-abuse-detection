@@ -1,0 +1,6 @@
+flask
+openai-whisper
+transformers
+huggingface-hub
+torch
+sentencepiece
